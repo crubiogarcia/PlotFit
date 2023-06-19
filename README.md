@@ -1,5 +1,5 @@
 # PlotFit
-Fits plots and blocks allowing different combinations along a curve through a collision loop 
+Fits plots and blocks allowing different combinations along a curve through a collision loop on Grasshopper Rhino
 
 There is a small python script for a custom collision force in kangaroo
  
