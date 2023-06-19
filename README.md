@@ -8,7 +8,7 @@ Rhinoceros 7
 Plugins used:
 Anemone for Looping
 Kangaroo 2
-Heteroptera
 
+August 2022
 
 
